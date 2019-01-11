@@ -1,0 +1,12 @@
+Neste artigo vamos aprender como fazer upload de arquivos com PHP. Porém, com alguns recursos adicionais em cada exemplo.
+No primeiro exemplo, iremos fazer um upload básico de apenas um arquivo, assim conseguimos pegar o jeito da coisa.
+No segundo exemplo, vamos fazer um upload de múltiplas imagens, e utilizaremos a classe WideImage para tratá-las (redimensionar, cortar e salvar).
+E por fim, no último exemplo, vamos fazer o upload por AJAX, utilizando o Jquery Form Plugin.
+Upload Básico
+Primeiro vamos fazer um upload clássico e rápido de apenas um arquivo. Por ser apenas um exemplo, resolvi escrever o código php na mesma página do HTML, para ficar de simples compreensão, por isso, na action do formulário temos #.
+Um dos atributos que não podemos esquecer para fazer upload, é o que seta o enctype ao nosso formulário.
+Neste artigo vamos aprender como fazer upload de arquivos com PHP. Porém, com alguns recursos adicionais em cada exemplo.
+No primeiro exemplo, iremos fazer um upload básico de apenas um arquivo, assim conseguimos pegar o jeito da coisa.
+No segundo exemplo, vamos fazer um upload de múltiplas imagens, e utilizaremos a classe WideImage para tratá-las (redimensionar, cortar e salvar).
+E por fim, no último exemplo, vamos fazer o upload por AJAX, utilizando o Jquery Form Plugin.
+Upload Básico
